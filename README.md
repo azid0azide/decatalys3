@@ -1,6 +1,9 @@
 <div align="center">
 	<h1>decatalys3</h1>
-	<img href=https://img.shields.io/github/languages/top/azid0azide/decatalys3?style=plastic&label=Documentation%20Written%20In&labelColor=red" />
+	<img
+		alt="Top Language"
+		src=https://img.shields.io/github/languages/top/azid0azide/decatalys3?style=plastic&label=Documentation%20Written%20In&labelColor=red"
+	/>
 </div>
 
 <div align="center">
