@@ -1,9 +1,9 @@
 <div align="center">
-	<h1>decatalys3</h1>
+	<h1>Nakuja N-4 Solid Propulsion</h1>
 	<img
 		alt="Top Language"
-		src=https://img.shields.io/github/languages/top/azid0azide/decatalys3?style=plastic&label=Documentation%20Written%20In&labelColor=red"
-	/>
+		src="https://img.shields.io/github/languages/top/azid0azide/decatalys3?style=plastic&color=green"
+		/>
 </div>
 
 <div align="center">

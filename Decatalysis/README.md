@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Effect of Decatalysis on the Burn Rate of Sugar Propellant(KNSu & KNSB)</h1>
+	<h1>Decatalysis Analysis</h1>
 </div>
 
 <div align="center">
