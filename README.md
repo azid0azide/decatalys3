@@ -14,7 +14,9 @@ This repo contains the write up for the analysis of the Propellant used in the S
 <div align="center">
 	<h2>References</h2>
 </div>
+
 - R. Nakka (2001). "Solid Rocket Motor Theory". Richard Nakka's Experimental Rocketry Web Site. August 19. Accessed February 5, 2025. http://www.nakka-rocketry.net/th_prope.html
+
 - "Making a new solid propellant formula" posted January 30, 2024 by BPS.space. YouTube. 19 min 53 s. https://youtu.be/DWSYZ2uEpnM?si=-MyJD-NyU0pVEiCk
 
 <div align="center">
