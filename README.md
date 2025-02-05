@@ -5,10 +5,11 @@
 <div align="center">
 	<h2>Overview</h2>
 </div>
-This repo contains the write up for the analysis of the Propellant used in the Static Test conducted on Friday, 31 January, 2025. I believe that it will be comprehensive and will highlight key areas of improvement and support the overall Conclusion provided by Eng. Nephat.
 
 > [!IMPORTANT]
 > The propellant evaluation software requires one to use a 32-bit system i.e. GuiPEP and ProPEP 3.
+
+This repo contains the write up for the analysis of the Propellant used in the Static Test conducted on Friday, 31 January, 2025. I believe that it will be comprehensive and will highlight key areas of improvement and support the overall Conclusion provided by Eng. Nephat.
 
 <div align="center">
 	<h2>References</h2>
