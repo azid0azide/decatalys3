@@ -4,7 +4,7 @@ all: target
 
 target: main.aux main.tex
 	pdflatex main.tex \
-	&& biblatex main.aux \
+	&& bibtex main.aux \
 	&& pdflatex main.tex \
 	&& pdflatex $main.tex
 
